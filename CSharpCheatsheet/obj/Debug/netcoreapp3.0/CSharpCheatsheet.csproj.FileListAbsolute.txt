@@ -1,0 +1,11 @@
+/Users/Jen/Projects/CSharpCheatsheet/CSharpCheatsheet/bin/Debug/netcoreapp3.0/CSharpCheatsheet
+/Users/Jen/Projects/CSharpCheatsheet/CSharpCheatsheet/bin/Debug/netcoreapp3.0/CSharpCheatsheet.deps.json
+/Users/Jen/Projects/CSharpCheatsheet/CSharpCheatsheet/bin/Debug/netcoreapp3.0/CSharpCheatsheet.runtimeconfig.json
+/Users/Jen/Projects/CSharpCheatsheet/CSharpCheatsheet/bin/Debug/netcoreapp3.0/CSharpCheatsheet.runtimeconfig.dev.json
+/Users/Jen/Projects/CSharpCheatsheet/CSharpCheatsheet/bin/Debug/netcoreapp3.0/CSharpCheatsheet.dll
+/Users/Jen/Projects/CSharpCheatsheet/CSharpCheatsheet/bin/Debug/netcoreapp3.0/CSharpCheatsheet.pdb
+/Users/Jen/Projects/CSharpCheatsheet/CSharpCheatsheet/obj/Debug/netcoreapp3.0/CSharpCheatsheet.csprojAssemblyReference.cache
+/Users/Jen/Projects/CSharpCheatsheet/CSharpCheatsheet/obj/Debug/netcoreapp3.0/CSharpCheatsheet.AssemblyInfoInputs.cache
+/Users/Jen/Projects/CSharpCheatsheet/CSharpCheatsheet/obj/Debug/netcoreapp3.0/CSharpCheatsheet.AssemblyInfo.cs
+/Users/Jen/Projects/CSharpCheatsheet/CSharpCheatsheet/obj/Debug/netcoreapp3.0/CSharpCheatsheet.dll
+/Users/Jen/Projects/CSharpCheatsheet/CSharpCheatsheet/obj/Debug/netcoreapp3.0/CSharpCheatsheet.pdb
